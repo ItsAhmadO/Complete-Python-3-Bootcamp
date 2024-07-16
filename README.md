@@ -1,4 +1,4 @@
-# Complete-Python-3-Bootcamp
+# Python 3 Bootcamp notes
 Course Files for Complete Python 3 Bootcamp Course on Udemy
 
 Copyright(©) by Pierian Data Inc.
